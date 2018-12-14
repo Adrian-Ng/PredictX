@@ -26,6 +26,4 @@ public class Haversine {
 
         return d;
     }
-
-
 }

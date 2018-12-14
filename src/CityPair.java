@@ -87,7 +87,7 @@ public class CityPair {
 
 
     public void print() {
-        System.out.printf("Distance between %s and %s is %f\n", getArrivalCode(), getDepartureCode(), getDistance());
+        System.out.printf("Distance between %s and %s is %f km\n", getArrivalCode(), getDepartureCode(), getDistance());
     }
 
 }
